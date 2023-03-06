@@ -56,13 +56,9 @@
 
 ## 5. 개선점
 
-
-[시계열 데이터를 활용한 코로나19 동향 예측](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002741446)
-
-[다중 스태킹을 가진 새로운 앙상블 학습 기법](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002619294)
-
-[코로나-19 사태가 국내경제에 미치는 영향과 향후 과제](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002659150)
-
-[](https://www.metroseoul.co.kr/article/20200915500473)
-
-[](https://www.kukinews.com/newsView/kuk202008260315)
+## 참고 자료
+- [시계열 데이터를 활용한 코로나19 동향 예측](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002741446)
+- [다중 스태킹을 가진 새로운 앙상블 학습 기법](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002619294)
+- [코로나-19 사태가 국내경제에 미치는 영향과 향후 과제](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002659150)
+- [](https://www.metroseoul.co.kr/article/20200915500473)
+- [](https://www.kukinews.com/newsView/kuk202008260315)
