@@ -32,5 +32,6 @@
 - 분석을 토대로 실제 활용이 가능한 방향 고려
     - 예) 넷플릭스의 컨텐츠의 트렌드, 인프라 등 분석하고 조직내 의사결정에 활용이 가능한 데이터 가치 창출
 
-- [데이터셋1](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/versions/1?resource=download&select=titles.csv)
-- [데이터셋2](https://www.kaggle.com/code/sukhdeepk/netflix-dataset-eda/data?select=netflix_titles.csv)
+- 참고 자료
+    - [데이터셋1](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/versions/1?resource=download&select=titles.csv)
+    - [데이터셋2](https://www.kaggle.com/code/sukhdeepk/netflix-dataset-eda/data?select=netflix_titles.csv)
