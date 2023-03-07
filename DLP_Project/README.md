@@ -64,6 +64,16 @@
   - 예) 확진자 예측을 통해 다음 날의 감염 위험도 표시와 방역 수칙 알림 등
 - 분석 단계에서 모델을 생성했을 때 성능이 비교적 좋게 나와 OLS,  트리기반 모델을 사용했는데 시계열 데이터 예측에 성능이 좋은 RNN을 활용한 딥러닝 모델을 통해 예측하는 방향도 추가해 볼 수 있음
 
+## 데이터셋
+- [소비자 물가 지수](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J20003&vw_cd=MT_ZTITLE&list_id=P2_6&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+- [실업률](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7102S&vw_cd=MT_ZTITLE&list_id=B15&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+- [달러 원화 환율](https://finance.yahoo.com/quote/KRW%3DX/history?period1=1577836800&period2=1672444800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)
+- [코스피 지수](https://finance.yahoo.com/quote/%5EKS11/history?p=%5EKS11)
+- [코스닥 지수](https://finance.yahoo.com/quote/%5EKQ11?p=^KQ11&.tsrc=fin-srch)
+- [코로나 확진 / 사망자](https://ncov.kdca.go.kr/)
+- [코로나 백신 1, 2차](https://ncv.kdca.go.kr/)
+- [코로나 백신 3차](https://kdx.kr/data/view/30239)
+
 ## 참고 자료
 - [시계열 데이터를 활용한 코로나19 동향 예측](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002741446)
 - [다중 스태킹을 가진 새로운 앙상블 학습 기법](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002619294)
