@@ -40,6 +40,7 @@
 - [데이터셋1](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/versions/1?resource=download&select=titles.csv)
 - [데이터셋2](https://www.kaggle.com/code/sukhdeepk/netflix-dataset-eda/data?select=netflix_titles.csv)
 
+-----------------------------------------------------------------------------------------------------------------------
 
 # [경제와 코로나 데이터를 통한 코로나19 동향 예측](https://github.com/zegnosc/project/tree/main/DLP_Project)
 
