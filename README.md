@@ -2,7 +2,7 @@
 
 [](http://naver.me/5G56nfFF)
 
-# 넷플릭스 데이터 분석](https://github.com/zegnosc/project/tree/main/Netflix_Project)
+# [넷플릭스 데이터 분석](https://github.com/zegnosc/project/tree/main/Netflix_Project)
 
 ## 1. 프로젝트 소개
 - 코로나19로 인해 전세계적으로 OTT서비스가 유행하는 가운데 가장 유명한 플랫폼인 넷플릭스의 컨텐츠에 대해 분석하고자 함 
