@@ -108,7 +108,7 @@
 
 <details>
 <summary>
-<b>기타</b>
+- <b>기타</b>
 </summary>
 <div markdown="1">
   
