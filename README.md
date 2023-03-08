@@ -106,6 +106,17 @@
   - 예) 확진자 예측을 통해 다음 날의 감염 위험도 표시와 방역 수칙 알림 등
 - 분석 단계에서 모델을 생성했을 때 성능이 비교적 좋게 나와 OLS,  트리기반 모델을 사용했는데 시계열 데이터 예측에 성능이 좋은 RNN을 활용한 딥러닝 모델을 통해 예측하는 방향도 추가해 볼 수 있음
 
+<details>
+<summary>
+<b>기타</b>
+</summary>
+<div markdown="1">
+  
+- 분석 과정
+  
+</div>
+</details>
+
 ## 데이터
 - [소비자 물가 지수](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J20003&vw_cd=MT_ZTITLE&list_id=P2_6&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
 - [실업률](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7102S&vw_cd=MT_ZTITLE&list_id=B15&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
