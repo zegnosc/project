@@ -133,3 +133,8 @@
 - [코로나-19 사태가 국내경제에 미치는 영향과 향후 과제](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002659150)
 [](https://www.metroseoul.co.kr/article/20200915500473)
 [](https://www.kukinews.com/newsView/kuk202008260315)
+
+- - -
+
+# [음식 주문 챗봇 프로젝트](https://github.com/zegnosc/project/tree/main/chatbot_project)
+
