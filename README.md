@@ -136,7 +136,7 @@
 
 - - -
 
-# [음식주문 챗봇 프로젝트](https://github.com/zegnosc/project/tree/main/chatbot_project)
+# [음식주문봇 ](https://github.com/zegnosc/project/tree/main/chatbot_project)
 
 <details>
 <summary>
